@@ -1,4 +1,5 @@
 # Ex-3 GENERATION OF LEXICAL TOKENS USING C
+# DATE:23-02-2024
 # AIM
 ## To write a C program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
@@ -17,6 +18,7 @@
 ```
 Developed by: Dharmaraj S
 Register no: 212222240025
+
 #include<stdio.h>
 #include<ctype.h>
 #include<stdlib.h>
